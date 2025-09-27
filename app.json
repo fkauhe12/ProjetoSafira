@@ -24,6 +24,18 @@
     },
     "web": {
       "favicon": "./assets/Logo_safira.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b85661ba-2b0b-44fb-8d2e-b82710125413"
+      }
+    },
+    "owner": "fkauhe12",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b85661ba-2b0b-44fb-8d2e-b82710125413"
     }
   }
 }
